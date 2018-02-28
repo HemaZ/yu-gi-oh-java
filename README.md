@@ -1,6 +1,6 @@
 # yu-gi-oh-java
 This Project was done by two Students 
-Ibrahim Essam Ibrahim 
+Ibrahim Essam Ibrahim &
 Hossam Hassan Elwan 
 for CS04 Course in German University in Cairo
 
